@@ -14,7 +14,7 @@ body {
 .navigation a {
   text-decoration: none;
   color: #fff;
-  font-size: 28px;
+  font-size: 30px;
   font-weight: 100;
   padding-left: 130px;
   
@@ -23,7 +23,7 @@ body {
   display: flex;
   justify-content: center; 
   align-items: center; 
-  background-color: #333; 
+  background-color: black; 
   padding: 15px 20px;
   position: fixed;
   top: 0;
@@ -317,7 +317,12 @@ body {
 @media (max-width: 1024px) {
   .navigation a {
     padding-left: 40px;
-    font-size: 20px;
+    font-size: 22px;
+    display: flex;
+    flex-direction: row; 
+    justify-content: center;
+    gap: 20px; 
+    
   }
 
   .cv .main-btn,
