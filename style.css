@@ -99,6 +99,7 @@ body {
 .cv .main-btn {
   text-decoration: none;
   background-color:#ff5e62;
+  color: #fff;
   font-size: 1.2em;
   font-weight: 600;
   display: inline-block;
