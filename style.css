@@ -317,11 +317,11 @@ body {
 @media (max-width: 1024px) {
   .navigation a {
     padding-left: 20px;
-    font-size: 22px;
+    font-size: 25px;
     display: flex;
     flex-direction: row; 
     justify-content: center;
-    gap: 20px; 
+    gap: 40px; 
     
   }
 
@@ -362,12 +362,15 @@ body {
   .navigation {
     flex-direction: row;
     padding: 10px;
+    gap: 40px; 
   }
 
   .navigation a {
     padding-left: 0;
     margin: 5px 0;
     font-size: 18px;
+    gap: 40px; 
+    
   }
 
   .services {
