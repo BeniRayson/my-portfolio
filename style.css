@@ -322,7 +322,7 @@ body {
     display: flex;
     flex-direction: row; 
     justify-content: center;
-    gap: 40px; 
+    gap: 90px; 
     
   }
 
@@ -365,14 +365,14 @@ body {
   .navigation {
     flex-direction: row;
     padding: 10px;
-    gap: 70px; 
+    gap: 90px; 
   }
 
   .navigation a {
     padding-left: 0;
     margin: 5px 0;
     font-size: 18px;
-    gap: 70px; 
+    gap: 90px; 
     
   }
 
