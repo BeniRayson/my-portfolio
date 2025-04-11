@@ -322,7 +322,7 @@ body {
     display: flex;
     flex-direction: row; 
     justify-content: center;
-    gap: 90px; 
+    gap: 70px; 
     
   }
 
@@ -365,7 +365,7 @@ body {
   .navigation {
     flex-direction: row;
     padding: 10px;
-    gap: 90px; 
+    gap: 70px; 
   }
 
   .navigation a {
@@ -390,7 +390,7 @@ body {
 
   .contact .card {
     width: 90%;
-    gap:50px;
+  
   }
 }
 
@@ -414,7 +414,6 @@ body {
   .services .card,
   .contact .card {
     padding: 20px;
-    gap:50px;
   }
 
   .imge {
