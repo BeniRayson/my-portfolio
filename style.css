@@ -360,7 +360,7 @@ body {
   }
 
   .navigation {
-    flex-direction: column;
+    flex-direction: row;
     padding: 10px;
   }
 
