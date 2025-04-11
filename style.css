@@ -331,6 +331,7 @@ body {
     display: block;
     margin: 20px auto;
     text-align: center;
+    background-color:#ff5e62;
   }
 
   .langage-container {
@@ -403,6 +404,7 @@ body {
   .button-containe {
     font-size: 1em;
     padding: 10px 20px;
+    background-color:#ff5e62;
   }
 
   .services .card,
