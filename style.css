@@ -18,6 +18,7 @@ body {
   font-weight: 100;
   padding-left: 130px;
   
+  
 }
 .navigation {
   display: flex;
@@ -97,8 +98,7 @@ body {
 
 .cv .main-btn {
   text-decoration: none;
-  color: #fff;
-  background-color: orangered;
+  background-color:#ff5e62;
   font-size: 1.2em;
   font-weight: 600;
   display: inline-block;
@@ -362,14 +362,14 @@ body {
   .navigation {
     flex-direction: row;
     padding: 10px;
-    gap: 40px; 
+    gap: 70px; 
   }
 
   .navigation a {
     padding-left: 0;
     margin: 5px 0;
     font-size: 18px;
-    gap: 40px; 
+    gap: 70px; 
     
   }
 
